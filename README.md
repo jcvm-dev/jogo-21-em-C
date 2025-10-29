@@ -56,9 +56,12 @@ Cada um recebe cartas aleatórias de um baralho virtual e decide se quer continu
     git clone https://github.com/SEU_USUARIO/jogo-de-21-c.git
     cd jogo-de-21-c
 
-
+2. **Compilar o projeto**
+    
     ```bash
     gcc jogo21.c -o jogo21.exe7 
 
+3. **Rodar o projeto**
+    
     ```bash
     jogo21.exe
